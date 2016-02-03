@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+  <photo id="24664990832" secret="1712958922" server="1583" farm="2" camera="Canon EOS 60D">
+    <exif tagspace="IFD0" tagspaceid="0" tag="Make" label="Make">
+      <raw>Canon</raw>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="Model" label="Model">
+      <raw>Canon EOS 60D</raw>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="XResolution" label="X-Resolution">
+      <raw>240</raw>
+      <clean>240 dpi</clean>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="YResolution" label="Y-Resolution">
+      <raw>240</raw>
+      <clean>240 dpi</clean>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="ResolutionUnit" label="Resolution Unit">
+      <raw>inches</raw>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="Software" label="Software">
+      <raw>Adobe Photoshop Lightroom 4.4 (Macintosh)</raw>
+    </exif>
+    <exif tagspace="IFD0" tagspaceid="0" tag="ModifyDate" label="Date and Time (Modified)">
+      <raw>2016:02:03 00:36:45</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ExposureTime" label="Exposure">
+      <raw>1/40</raw>
+      <clean>0.025 sec (1/40)</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="FNumber" label="Aperture">
+      <raw>7.1</raw>
+      <clean>f/7.1</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ExposureProgram" label="Exposure Program">
+      <raw>Manual</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ISO" label="ISO Speed">
+      <raw>6400</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="SensitivityType" label="Sensitivity Type">
+      <raw>Recommended Exposure Index</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="RecommendedExposureIndex" label="Recommended Exposure Index">
+      <raw>6400</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ExifVersion" label="Exif Version">
+      <raw>0230</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="DateTimeOriginal" label="Date and Time (Original)">
+      <raw>2016:02:02 22:16:44</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="CreateDate" label="Date and Time (Digitized)">
+      <raw>2016:02:02 22:16:44</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ExposureCompensation" label="Exposure Bias">
+      <raw>0</raw>
+      <clean>0 EV</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="MaxApertureValue" label="Max Aperture Value">
+      <raw>6.2</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="MeteringMode" label="Metering Mode">
+      <raw>Multi-segment</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="Flash" label="Flash">
+      <raw>Off, Did not fire</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="FocalLength" label="Focal Length">
+      <raw>250.0 mm</raw>
+      <clean>250 mm</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="SubSecTimeOriginal" label="Sub Sec Time Original">
+      <raw>48</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="SubSecTimeDigitized" label="Sub Sec Time Digitized">
+      <raw>48</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="FocalPlaneXResolution" label="Focal Plane X-Resolution">
+      <raw>5728.176796</raw>
+      <clean>5728.176796 dpi</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="FocalPlaneYResolution" label="Focal Plane Y-Resolution">
+      <raw>5808.403361</raw>
+      <clean>5808.403361 dpi</clean>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="FocalPlaneResolutionUnit" label="Focal Plane Resolution Unit">
+      <raw>inches</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="CustomRendered" label="Custom Rendered">
+      <raw>Normal</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="ExposureMode" label="Exposure Mode">
+      <raw>Manual</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="WhiteBalance" label="White Balance">
+      <raw>Auto</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="SceneCaptureType" label="Scene Capture Type">
+      <raw>Standard</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="LensInfo" label="Lens Info">
+      <raw>18-250mm f/?</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="LensModel" label="Lens Model">
+      <raw>18-250mm</raw>
+    </exif>
+    <exif tagspace="ExifIFD" tagspaceid="0" tag="LensSerialNumber" label="Lens Serial Number">
+      <raw>0000000000</raw>
+    </exif>
+    <exif tagspace="IFD1" tagspaceid="0" tag="Compression" label="Compression">
+      <raw>JPEG (old-style)</raw>
+    </exif>
+    <exif tagspace="IFD1" tagspaceid="0" tag="ResolutionUnit" label="Resolution Unit">
+      <raw>inches</raw>
+    </exif>
+    <exif tagspace="IFD1" tagspaceid="0" tag="ThumbnailOffset" label="Thumbnail Offset">
+      <raw>846</raw>
+    </exif>
+    <exif tagspace="IFD1" tagspaceid="0" tag="ThumbnailLength" label="Thumbnail Length">
+      <raw>10950</raw>
+    </exif>
+    <exif tagspace="Photoshop" tagspaceid="0" tag="DisplayedUnitsX" label="Displayed Units X">
+      <raw>inches</raw>
+    </exif>
+    <exif tagspace="Photoshop" tagspaceid="0" tag="DisplayedUnitsY" label="Displayed Units Y">
+      <raw>inches</raw>
+    </exif>
+    <exif tagspace="Photoshop" tagspaceid="0" tag="PhotoshopThumbnail" label="Photoshop Thumbnail">
+      <raw>(Binary data 10950 bytes, use -b option to extract)</raw>
+    </exif>
+    <exif tagspace="Photoshop" tagspaceid="0" tag="IPTCDigest" label="IPTCDigest">
+      <raw>77d767dfc191a82bfd97dabe48c76ec4</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="CodedCharacterSet" label="Coded Character Set">
+      <raw>UTF8</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="ApplicationRecordVersion" label="Application Record Version">
+      <raw>4</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="DateCreated" label="Date Created">
+      <raw>2016:02:02</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="TimeCreated" label="Time Created">
+      <raw>22:16:44</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="DigitalCreationDate" label="Digital Creation Date">
+      <raw>2016:02:02</raw>
+    </exif>
+    <exif tagspace="IPTC" tagspaceid="0" tag="DigitalCreationTime" label="Digital Creation Time">
+      <raw>22:16:44</raw>
+    </exif>
+    <exif tagspace="ICC-view" tagspaceid="0" tag="ViewingCondIlluminant" label="Viewing Cond Illuminant">
+      <raw>19.6445 20.3718 16.8089</raw>
+    </exif>
+    <exif tagspace="ICC-view" tagspaceid="0" tag="ViewingCondSurround" label="Viewing Cond Surround">
+      <raw>3.92889 4.07439 3.36179</raw>
+    </exif>
+    <exif tagspace="ICC-view" tagspaceid="0" tag="ViewingCondIlluminantType" label="Viewing Conditions Illuminant Type">
+      <raw>D50</raw>
+    </exif>
+    <exif tagspace="ICC-meas" tagspaceid="0" tag="MeasurementObserver" label="Measurement Observer">
+      <raw>CIE 1931</raw>
+    </exif>
+    <exif tagspace="ICC-meas" tagspaceid="0" tag="MeasurementBacking" label="Measurement Backing">
+      <raw>0 0 0</raw>
+    </exif>
+    <exif tagspace="ICC-meas" tagspaceid="0" tag="MeasurementGeometry" label="Measurement Geometry">
+      <raw>Unknown (0)</raw>
+    </exif>
+    <exif tagspace="ICC-meas" tagspaceid="0" tag="MeasurementFlare" label="Measurement Flare">
+      <raw>0.999%</raw>
+    </exif>
+    <exif tagspace="ICC-meas" tagspaceid="0" tag="MeasurementIlluminant" label="Measurement Illuminant">
+      <raw>D65</raw>
+    </exif>
+    <exif tagspace="XMP-x" tagspaceid="0" tag="XMPToolkit" label="XMPToolkit">
+      <raw>Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        </raw>
+    </exif>
+    <exif tagspace="XMP-xmp" tagspaceid="0" tag="MetadataDate" label="Metadata Date">
+      <raw>2016:02:03 00:36:45Z</raw>
+    </exif>
+    <exif tagspace="XMP-xmp" tagspaceid="0" tag="CreatorTool" label="Creator Tool">
+      <raw>Adobe Photoshop Lightroom 4.4 (Macintosh)</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="Lens" label="Lens">
+      <raw>18-250mm</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="LensID" label="Lens ID">
+      <raw>137</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="ImageNumber" label="Image Number">
+      <raw>0</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="ApproximateFocusDistance" label="Approximate Focus Distance">
+      <raw>2.83</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="FlashCompensation" label="Flash Compensation">
+      <raw>0</raw>
+    </exif>
+    <exif tagspace="XMP-aux" tagspaceid="0" tag="Firmware" label="Firmware">
+      <raw>1.1.0</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="DocumentID" label="Document ID">
+      <raw>xmp.did:b973fe18-a2e9-4e52-bc3d-2d12fb529d06</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="OriginalDocumentID" label="Original Document ID">
+      <raw>2B4CE198772073DC39B05727C3966ED7</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="InstanceID" label="Instance ID">
+      <raw>xmp.iid:b973fe18-a2e9-4e52-bc3d-2d12fb529d06</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistoryAction" label="History Action">
+      <raw>derived</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistoryParameters" label="History Parameters">
+      <raw>converted from image/x-canon-cr2 to image/jpeg, saved to new location</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistoryInstanceID" label="History Instance ID">
+      <raw>xmp.iid:b973fe18-a2e9-4e52-bc3d-2d12fb529d06</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistoryWhen" label="History When">
+      <raw>2016:02:03 00:36:45Z</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistorySoftwareAgent" label="History Software Agent">
+      <raw>Adobe Photoshop Lightroom 4.4 (Macintosh)</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="HistoryChanged" label="History Changed">
+      <raw>/</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="DerivedFromDocumentID" label="Derived From Document ID">
+      <raw>2B4CE198772073DC39B05727C3966ED7</raw>
+    </exif>
+    <exif tagspace="XMP-xmpMM" tagspaceid="0" tag="DerivedFromOriginalDocumentID" label="Derived From Original Document ID">
+      <raw>2B4CE198772073DC39B05727C3966ED7</raw>
+    </exif>
+    <exif tagspace="XMP-dc" tagspaceid="0" tag="Format" label="Format">
+      <raw>image/jpeg</raw>
+    </exif>
+    <exif tagspace="Adobe" tagspaceid="0" tag="DCTEncodeVersion" label="DCTEncode Version">
+      <raw>100</raw>
+    </exif>
+    <exif tagspace="Adobe" tagspaceid="0" tag="APP14Flags0" label="APP14 Flags0">
+      <raw>(none)</raw>
+    </exif>
+    <exif tagspace="Adobe" tagspaceid="0" tag="APP14Flags1" label="APP14 Flags1">
+      <raw>(none)</raw>
+    </exif>
+    <exif tagspace="Adobe" tagspaceid="0" tag="ColorTransform" label="Color Transform">
+      <raw>YCbCr</raw>
+    </exif>
+  </photo>
+</rsp>
